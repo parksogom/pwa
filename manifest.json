@@ -1,0 +1,35 @@
+{
+    "name" : "Hello,PWA",
+    "short_name" : "PWA",
+    "description" : "start for PWA",
+    "scope" : ".",
+    "start_url" : "./",
+    "display" : "fullscreen",
+    "orientation" : "portrait",
+    "theme_color" : "#ffffff",
+    "background)color" : "#ffffff",
+    "icons":[
+        {
+            "src" : "images/icons/android-chrome-512x512.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+
+    ],
+    "shortcuts" : [
+        {
+            "name" : "Hello,PWA",
+            "short_name" : "PWA",
+            "description" : "start for PWA",
+            "start_url" : "./",
+            "icons":[
+                {
+                    "src" : "images/icons/android-chrome-512x512.png",
+                    "sizes" : "512x512",
+                    "type" : "image/png"
+                }
+        
+            ]
+        }
+    ]
+}
